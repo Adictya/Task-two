@@ -12,3 +12,54 @@ body
 {
       background-image: url("Background.jpg");
 }
+#top_bar
+{
+      height: 8vh;
+      padding: 35px;
+      max-width: 100vw;
+}
+#Icon_Image
+{
+      float: left;
+      margin:10px 10px 10px 100px;
+}
+#Icon_Logo
+{
+      margin: 35px 10px 20px 5px;
+      color: #5f788b;
+      float: left;
+      font-family: 'Monsterrat', sans-serif;
+      font-weight: 100;
+      font-size: 25px;
+}
+#Icon_Logo_Bold
+{
+      color: white;
+      font-weight: bold;
+}
+.First_Button
+{
+      margin: 30px 10px 30px 10px;
+      float: right;
+}
+#First_Button_1
+{     
+      border: none;
+      background-color: transparent;
+      color: rgba(255, 255, 255, 0.623);
+      font-family: 'Monsterrat', sans-serif;
+      font-size: 17px;
+      margin: 0px 10px;
+}
+#First_Button_2
+{
+      margin-right: 100px;
+      border: 2px solid rgba(255, 255, 255, 0.294);
+      color: white;
+      background-color: transparent;
+      font-family: 'Monsterrat', sans-serif;
+      font-weight: 700;
+      font-size: 17px;
+      padding: 10px 30px;
+      border-radius: 5px;
+}
